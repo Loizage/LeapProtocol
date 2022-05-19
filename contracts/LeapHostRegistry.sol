@@ -5,5 +5,13 @@ import "hardhat/console.sol";
 
 /// @custom:security-contact security-leap@mail.com
 contract HostRegistry {
+
+    // Register host (Stake NFT)
+
+    // Register host event / project (Twitter Space)
+
+    // Set reward for event (Transfer ERC20)
+
+    // Turn-off Leap rewards
     
 }
